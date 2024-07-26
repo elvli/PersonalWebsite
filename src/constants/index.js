@@ -40,33 +40,27 @@ export const navigation = [
   {
     id: "0",
     title: "About",
-    url: "#features",
+    url: "#about",
   },
   {
     id: "1",
     title: "Projects",
-    url: "#pricing",
+    url: "#projects",
   },
   {
     id: "2",
     title: "Experience",
-    url: "#how-to-use",
+    url: "#experience",
   },
   {
     id: "3",
     title: "Resume",
-    url: "#roadmap",
+    url: "#resume",
   },
   {
     id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
+    title: "Contact Me",
+    url: "#contactme",
     onlyMobile: true,
   },
 ];

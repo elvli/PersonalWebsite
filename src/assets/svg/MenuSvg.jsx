@@ -4,7 +4,7 @@ const MenuSvg = ({ openNavigation }) => {
       className="overflow-visible"
       width="20"
       height="12"
-      viewBox="0 0 20 12"
+      viewBox="0 -16 20 12"
     >
       <rect
         className="transition-all origin-center"
